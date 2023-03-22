@@ -1,0 +1,5 @@
+com\demo\componentspringmvc\Controller\LoginController.class
+com\demo\componentspringmvc\Controller\MenuController.class
+com\demo\componentspringmvc\Controller\baseController.class
+com\demo\componentspringmvc\Controller\jsonController.class
+com\demo\componentspringmvc\Model\User.class
