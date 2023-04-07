@@ -1,0 +1,14 @@
+com\all\springbootSecurity\Service\UserService.class
+com\all\springbootSecurity\config\WebSecurityConfig.class
+com\all\springbootSecurity\Repository\RoleRepository.class
+com\all\springbootSecurity\Repository\UserRepository.class
+com\all\springbootSecurity\Service\IProductService.class
+com\all\springbootSecurity\Model\user.class
+com\all\springbootSecurity\Model\role.class
+com\all\springbootSecurity\util\EncrytedPasswordUtils.class
+com\all\springbootSecurity\Repository\ProductRepository.class
+com\all\springbootSecurity\Controller\UserController.class
+com\all\springbootSecurity\SpringbootSecurityApplication.class
+com\all\springbootSecurity\Service\ProductService.class
+com\all\springbootSecurity\Model\product.class
+com\all\springbootSecurity\Model\user_role.class
